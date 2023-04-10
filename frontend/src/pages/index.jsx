@@ -186,7 +186,7 @@ export function RootIndex() {
       </div>
       <div className="flex justify-center">
         <a href="https://youtu.be/dQw4w9WgXcQ" target="_blank">
-          <img src="/vite.svg" className="w-52 logo" />
+          <img src="https://media.tenor.com/b2P3asduDaAAAAAC/blue-lock-nagi.gif" className="w-52 logo" />
         </a>
       </div>
     </div>
